@@ -20,6 +20,8 @@
   }, {
     "id" : "org.talend.lite.esb.apidesigner.feature.feature.group"
   }, {
+    "id" : "org.talend.studio.components.tck.chunk.feature.feature.group"
+  }, {
     "id" : "org.talend.studio.components.tck.claude.feature.feature.group"
   }, {
     "id" : "org.talend.studio.components.tck.embeddingAI.feature.feature.group"
@@ -29,6 +31,8 @@
     "id" : "org.talend.studio.components.tck.ollama.feature.feature.group"
   }, {
     "id" : "org.talend.studio.components.tck.openai.connector.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tck.pinecone.studio.feature.feature.group"
   }, {
     "id" : "org.talend.studio.components.tcompv0.azurestorage.feature.feature.group"
   }, {
